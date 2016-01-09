@@ -6,7 +6,6 @@ permalink: /about/
 
 <img class="col one right" src="/img/Jeff.jpg">
 
-<br/>
 My name is Jeffrey Grover, and I'm a physicist by training.
 
 I studied physics and math at <a href="https://www.amherst.edu" target="_blank">Amherst College</a>, where I wrote an undergraduate honors thesis with <a href="https://www.amherst.edu/~jrfriedman" target="_blank">Jonathan Friedman</a>. 
