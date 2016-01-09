@@ -13,7 +13,9 @@ I studied physics and math at <a href="https://www.amherst.edu" target="_blank">
 After that I completed a PhD in experimental atomic physics in the <a href="" target="_blank">Joint Quantum Institute</a> at the <a href="http://umdphysics.umd.edu/" target="_blank">University of Maryland</a>. 
 My advisors were <a href="http://groups.jqi.umd.edu/rolston/" target="_blank">Steve Rolston</a> and <a href="http://www.physics.umd.edu/rgroups/amo/orozco/" target="_blank">Luis Orozco</a>, and we tried to laser-cool and trap rubidium atoms a few microns away from a superconducting circuit inside a dilution refrigerator. It was a crazy idea.
 
-
+I'm currently a postdoc in the <a href="http://equs.mit.edu/" target="_blank">Engineering Quantum Systems Group</a> within the <a href="http://www.rle.mit.edu/" target="_blank">RLE</a> at <a href="http://web.mit.edu/" target="_blank">MIT</a>.
+We're trying to build a quantum computer out of superconducting devices.
+It involves a lot of RF circuit design, quantum physics, and programming in Python.
 
 
 <br/>
