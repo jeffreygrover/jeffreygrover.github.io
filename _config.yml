@@ -19,11 +19,11 @@ paginate_path: "/blog/page:num/"
 
 
 collections:
-  portfolio:
+  projects:
     output: true
-    permalink: /portfolio/:path/
-  poetry:
+    permalink: /projects/:path/
+  publications:
     output: true
-    permalink: /poetry/:path/
+    permalink: /publications/:path/
 
 
