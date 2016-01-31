@@ -9,19 +9,19 @@ description: A listing of my scientific publications
 
 <ul>
 	<li>\textbf{J. A. Grover}, P. Solano, L. A. Orozco, S. L. Rolston, 	\href{http://dx.doi.org/10.1103/PhysRevA.92.013850}{``Photon-correlation measurements of atomic-cloud temperature using an optical 	nanofiber,''} Phys. Rev. A \textbf{92}, 013850 (2015).
-		\begin{innerlist}
-			\item \textsl{Physical Review A} Editors' Suggestion
-		\end{innerlist}
+	<ul>
+		<li>textsl{Physical Review A} Editors' Suggestion</li>
+	</ul>
 	</li>	
 	<li>
 	J. Lee$^{*}$, \textbf{J. A. Grover}$^{*}$, J.E. Hoffman, L. A. Orozco, and S. L. Rolston, 		\href{http://dx.doi.org/10.1088/0953-4075/48/16/165004}{``Inhomogeneous broadening of optical transitions of $^{87}$Rb atoms in an 	optical nanofiber trap,''} J. Phys. B: At. Mol. Opt. Phys. \textbf{48}, 165004 (2015).
 	</li>
 	<li>
 	J. E. Hoffman, S. Ravets, \textbf{J. A. Grover}, P. Solano, P. Kordell, J. D. Wong-Campos, L. A. Orozco, and S. L. Rolston, 	\href{http://dx.doi.org/10.1063/1.4879799}{``Ultrahigh transmission optical nanofibers,''} AIP Advances, \textbf{4}, 067124 (2014).
-	\begin{innerlist}
-	\item \textsl{Nature Photonics} research highlight: 	\href{http://www.nature.com/nphoton/journal/v8/n9/full/nphoton.2014.193.html}{Low loss nanofibres}
-	\item AIP journal highlight: 	\href{http://publishing.aip.org/publishing/journal-highlights/ultra-thin-wires-quantum-computing?TRACK=aipp-home}{Ultra-thin wires for quantum computing}
-	\end{innerlist}
+	<ul>
+		<li>\textsl{Nature Photonics} research highlight: 	\href{http://www.nature.com/nphoton/journal/v8/n9/full/nphoton.2014.193.html}{Low loss nanofibres}</li>
+		<li>AIP journal highlight: 	\href{http://publishing.aip.org/publishing/journal-highlights/ultra-thin-wires-quantum-computing?TRACK=aipp-home}{Ultra-thin wires for quantum computing}</li>
+	</ul>
 	</li>
 	<li>
  J. Lee, \textbf{J. A. Grover}, L. A. Orozco, and S. L. Rolston, \href{http://dx.doi.org/10.1364/JOSAB.30.002869}{``Sub-Doppler cooling of neutral atoms in a grating magneto-optical trap,''} JOSA B \textbf{30}, 2869 (2013).
