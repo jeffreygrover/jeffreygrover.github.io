@@ -14,7 +14,7 @@ description: A listing of my scientific publications
 	</ul>
 	</li>	
 	<li>
-	J. Lee<sup>*</sup>, <b>J. A. Grover</b><sup>*</sup>, J.E. Hoffman, L. A. Orozco, and S. L. Rolston, <a href="http://dx.doi.org/10.1088/0953-4075/48/16/165004" target="_blank">"Inhomogeneous broadening of optical transitions of <sup>87<\sup>Rb atoms in an optical nanofiber trap,"</a> J. Phys. B: At. Mol. Opt. Phys. <b>48</b>, 165004 (2015).
+	J. Lee<sup>*</sup>, <b>J. A. Grover</b><sup>*</sup>, J.E. Hoffman, L. A. Orozco, and S. L. Rolston, <a href="http://dx.doi.org/10.1088/0953-4075/48/16/165004" target="_blank">"Inhomogeneous broadening of optical transitions of <sup>87</sup>Rb atoms in an optical nanofiber trap,"</a> J. Phys. B: At. Mol. Opt. Phys. <b>48</b>, 165004 (2015).
 	</li>
 	<li>
 	J. E. Hoffman, S. Ravets, <b>J. A. Grover</b>, P. Solano, P. Kordell, J. D. Wong-Campos, L. A. Orozco, and S. L. Rolston, <a href="http://dx.doi.org/10.1063/1.4879799" target="_blank">"Ultrahigh transmission optical nanofibers,"</a> AIP Advances, <b>4</b>, 067124 (2014).
@@ -27,7 +27,7 @@ description: A listing of my scientific publications
  J. Lee, <b>J. A. Grover</b>, L. A. Orozco, and S. L. Rolston, <a href="http://dx.doi.org/10.1364/JOSAB.30.002869" target="_blank">"Sub-Doppler cooling of neutral atoms in a grating magneto-optical trap,"</a> JOSA B <b>30</b>, 2869 (2013).
 	</li>
 	<li>
-	Z. Kim, C. P. Vlahacos, J. E. Hoffman, <b>J. A. Grover</b>, K. D. Voigt, B. K. Cooper, C. J. Ballard, B. S. Palmer, M. Hafezi, 	J. M. Taylor, J. R. Anderson, A. J. Dragt, C. J. Lobb, L. A. Orozco, S. L. Rolston, and F. C. Wellstood, <a href="http://dx.doi.org/10.1063/1.3651466" target="_blank">"Thin-film superconducting resonator tunable to the ground-state hyperfine splitting of $^{87}$Rb,"</a> AIP Advances <b>1</b>, 042107 (2011).
+	Z. Kim, C. P. Vlahacos, J. E. Hoffman, <b>J. A. Grover</b>, K. D. Voigt, B. K. Cooper, C. J. Ballard, B. S. Palmer, M. Hafezi, 	J. M. Taylor, J. R. Anderson, A. J. Dragt, C. J. Lobb, L. A. Orozco, S. L. Rolston, and F. C. Wellstood, <a href="http://dx.doi.org/10.1063/1.3651466" target="_blank">"Thin-film superconducting resonator tunable to the ground-state hyperfine splitting of <sup>87</sup>Rb,"</a> AIP Advances <b>1</b>, 042107 (2011).
 	</li>
 </ul>
 
