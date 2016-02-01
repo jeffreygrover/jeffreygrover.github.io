@@ -5,7 +5,7 @@ title: publications
 description: A listing of my scientific publications
 ---
 
-#peer-reviewed
+##peer-reviewed
 <br>
 <ol reversed>
 	<li><b>J. A. Grover</b>, P. Solano, L. A. Orozco, S. L. Rolston, <a href="http://dx.doi.org/10.1103/PhysRevA.92.013850" target="_blank">"Photon-correlation measurements of atomic-cloud temperature using an optical nanofiber,"</a> Phys. Rev. A <b>92</b>, 013850 (2015).
