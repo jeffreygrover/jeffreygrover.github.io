@@ -50,7 +50,7 @@ permalink: /projects/
 
 {% endfor %}
 
-<p style="margin-top: 300px">
+<p style="margin-top: 260px">
 </p>
 <br>
 <hr>
