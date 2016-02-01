@@ -6,8 +6,6 @@ permalink: /projects/
 
 #physics
 
-<br>
-
 {% assign num = 2 %}
 
 {% for project in site.projects limit:num %}
@@ -52,15 +50,13 @@ permalink: /projects/
 
 {% endfor %}
 
-<p style="margin-top: 270px">
+<p style="margin-top: 300px">
 </p>
 <br>
 <hr>
 <br>
 
 #data science
-
-<br>
 
 {% for project in site.projects offset:num %}
 
