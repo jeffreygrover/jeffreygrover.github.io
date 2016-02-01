@@ -58,9 +58,9 @@ permalink: /projects/
 
 <br>
 
-<div>
+<p>
 #data science
-</div>
+</p>
 
 <br>
 
