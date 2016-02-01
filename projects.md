@@ -60,7 +60,7 @@ permalink: /projects/
 
 <div>
 #data science
-<\div>
+</div>
 
 <br>
 
