@@ -4,6 +4,10 @@ title: projects
 permalink: /projects/
 ---
 
+#physics
+
+<br>
+
 {% for project in site.projects %}
 
 {% if project.redirect %}
@@ -45,3 +49,7 @@ permalink: /projects/
 {% endif %}
 
 {% endfor %}
+
+<br>
+
+#data science and visualization
