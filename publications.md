@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: A listing of my scientific publications
 ---
-
+<hr>
 #peer-reviewed
 <br>
 <ol reversed>
@@ -33,6 +33,7 @@ description: A listing of my scientific publications
 
 <br>
 
+<hr>
 #conference proceedings
 <br>
 <ol reversed>
