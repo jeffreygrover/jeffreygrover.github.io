@@ -52,15 +52,15 @@ permalink: /projects/
 
 {% endfor %}
 
-<br>
+
+<p style="margin-top: 250px">
+</p>
 
 <hr>
 
 <br>
 
-<p>
 #data science
-</p>
 
 <br>
 
