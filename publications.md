@@ -33,10 +33,6 @@ description: A listing of my scientific publications
 
 <br>
 
-<hr>
-
-<br>
-
 #conference proceedings
 <br>
 <ol reversed>
